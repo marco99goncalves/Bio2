@@ -1,0 +1,794 @@
+2024-04-17 20:01:21,475 - Logger - ERROR - This is an error message
+2024-04-17 20:01:21,475 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:01:55,859 - Logger - ERROR - This is an error message
+2024-04-17 20:01:55,859 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:03:41,103 - Logger - ERROR - This is an error message
+2024-04-17 20:03:41,103 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:04:03,270 - Logger - ERROR - This is an error message
+2024-04-17 20:04:03,270 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:04:14,146 - Logger - ERROR - This is an error message
+2024-04-17 20:04:14,147 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:04:18,860 - Logger - ERROR - This is an error message
+2024-04-17 20:04:18,860 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:04:29,205 - Logger - DEBUG - This is a debug message
+2024-04-17 20:04:29,205 - Logger - INFO - This is an info message
+2024-04-17 20:04:29,205 - Logger - WARNING - This is a warning message
+2024-04-17 20:04:29,205 - Logger - ERROR - This is an error message
+2024-04-17 20:04:29,205 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:04:29,205 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:04:42,851 - Logger - DEBUG - This is a debug message
+2024-04-17 20:04:42,851 - Logger - INFO - This is an info message
+2024-04-17 20:04:42,851 - Logger - WARNING - This is a warning message
+2024-04-17 20:04:42,851 - Logger - ERROR - This is an error message
+2024-04-17 20:04:42,851 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:04:42,851 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:13:47,411 - Logger - DEBUG - This is a debug message
+2024-04-17 20:13:47,411 - Logger - INFO - This is an info message
+2024-04-17 20:13:47,411 - Logger - WARNING - This is a warning message
+2024-04-17 20:13:47,411 - Logger - ERROR - This is an error message
+2024-04-17 20:13:47,411 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:13:47,411 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:13:56,997 - Logger - DEBUG - This is a debug message
+2024-04-17 20:13:56,997 - Logger - INFO - This is an info message
+2024-04-17 20:13:56,997 - Logger - WARNING - This is a warning message
+2024-04-17 20:13:56,997 - Logger - ERROR - This is an error message
+2024-04-17 20:13:56,997 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:13:56,998 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:14:11,984 - Logger - DEBUG - This is a debug message
+2024-04-17 20:14:11,984 - Logger - INFO - This is an info message
+2024-04-17 20:14:11,985 - Logger - WARNING - This is a warning message
+2024-04-17 20:14:11,985 - Logger - ERROR - This is an error message
+2024-04-17 20:14:11,985 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:14:11,985 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:14:27,758 - Logger - DEBUG - This is a debug message
+2024-04-17 20:14:27,759 - Logger - INFO - This is an info message
+2024-04-17 20:14:27,759 - Logger - WARNING - This is a warning message
+2024-04-17 20:14:27,759 - Logger - ERROR - This is an error message
+2024-04-17 20:14:27,759 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:14:27,759 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:14:42,478 - Logger - DEBUG - This is a debug message
+2024-04-17 20:14:42,478 - Logger - INFO - This is an info message
+2024-04-17 20:14:42,478 - Logger - WARNING - This is a warning message
+2024-04-17 20:14:42,478 - Logger - ERROR - This is an error message
+2024-04-17 20:14:42,479 - Logger - CRITICAL - This is a critical message
+2024-04-17 20:14:42,479 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:15:52,386 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:15:52,386 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:16:02,990 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:16:02,990 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:16:16,227 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:16:16,227 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:16:29,298 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:17:00,660 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:17:09,971 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:17:09,971 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:18:17,895 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:18:42,277 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:18:42,877 - Logger - INFO - Sequence written to Sequences/P68871.fasta
+2024-04-17 20:19:03,681 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:19:04,257 - Logger - INFO - Sequence written to Sequences/P68871.fasta
+2024-04-17 20:20:10,726 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:20:11,314 - Logger - INFO - Sequence written to Sequences/P68871.fasta
+2024-04-17 20:20:45,281 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:20:45,845 - Logger - ERROR - Failed to retrieve data for UniProt ID P68871
+2024-04-17 20:20:51,217 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:20:51,780 - Logger - INFO - Sequence written to Sequences/P68871.fasta
+2024-04-17 20:21:19,031 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:21:19,716 - Logger - INFO - Sequence written to Sequences/P68871.fasta
+2024-04-17 20:21:19,716 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... 
+
+2024-04-17 20:22:57,391 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:24:41,292 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:25:26,885 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:25:27,419 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+2024-04-17 20:25:27,419 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 20:26:00,274 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:26:00,861 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+2024-04-17 20:26:00,862 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 20:26:00,862 - Logger - INFO - BLAST analysis completed. Results written to O
+
+2024-04-17 20:27:06,924 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:27:07,498 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+2024-04-17 20:27:07,499 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 20:27:07,499 - Logger - INFO - BLAST analysis completed. Results written to O
+
+2024-04-17 20:27:36,886 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:27:37,431 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 20:27:37,432 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 20:27:37,432 - Logger - INFO - BLAST analysis completed. Results written to O
+
+2024-04-17 20:31:00,531 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 20:31:01,081 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 20:31:01,081 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 20:51:03,521 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-17 20:51:03,521 - Logger - INFO - BLAST search parsed.
+
+2024-04-17 20:51:03,612 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-17 20:51:03,613 - Logger - INFO - BLAST analysis completed. Results written to Phase2/sequences_P68871.fasta
+
+2024-04-17 21:48:17,832 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 21:48:18,392 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 21:48:18,393 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 21:48:36,099 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 21:48:36,986 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 21:48:36,987 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 21:48:47,828 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 21:48:48,472 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 21:48:48,473 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 21:49:50,374 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-17 21:49:50,374 - Logger - INFO - BLAST search parsed.
+
+2024-04-17 21:49:50,383 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-17 21:49:50,384 - Logger - INFO - BLAST analysis completed. Results written to Phase2/sequences_P68871.fasta
+
+2024-04-17 22:10:50,119 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 22:10:50,730 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 22:10:50,731 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 22:11:02,750 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 22:11:03,445 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 22:11:03,446 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 22:13:49,215 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-17 22:13:49,831 - Logger - INFO - Sequence written to Sequences/sequence_P68871.fasta
+
+2024-04-17 22:13:49,832 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-17 22:24:52,086 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-17 22:24:52,086 - Logger - INFO - BLAST search parsed.
+
+2024-04-17 22:24:52,095 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-17 22:24:52,096 - Logger - INFO - BLAST analysis completed. Results written to Phase2/sequences_P68871.fasta
+
+2024-04-18 11:07:36,581 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:07:37,188 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:07:37,189 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:37:40,540 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-18 11:37:40,542 - Logger - INFO - BLAST search parsed.
+
+2024-04-18 11:37:40,558 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-18 11:37:40,558 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:39:11,511 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:39:12,333 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:39:12,334 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:39:12,334 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:39:13,309 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:39:13,516 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:18,789 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:24,062 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:29,331 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:34,560 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:39,870 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:45,149 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:50,405 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:39:55,652 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:40:00,915 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:40:06,154 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:40:11,410 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:40:16,673 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:40:21,928 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:43:10,705 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:43:11,303 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:43:11,304 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:43:11,304 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:43:11,587 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:43:11,806 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:43:17,042 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:43:35,883 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:43:36,837 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:43:36,838 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:43:36,838 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:43:37,184 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:43:37,397 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:43:42,653 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:43:47,915 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:43:53,189 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:47:24,952 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:47:25,510 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:47:25,510 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:47:25,511 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:47:25,822 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:47:26,037 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:47:31,273 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:47:47,260 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:47:47,817 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:47:47,818 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:47:47,818 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:47:48,117 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:47:48,324 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:48:14,455 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:48:15,046 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:48:15,047 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:48:15,047 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:48:15,332 - Logger - INFO - Job submitted successfully. Job ID: 
+2024-04-18 11:48:15,548 - Logger - INFO - Job status: 
+2024-04-18 11:48:20,829 - Logger - INFO - Job status: 
+2024-04-18 11:48:26,091 - Logger - INFO - Job status: 
+2024-04-18 11:48:31,350 - Logger - INFO - Job status: 
+2024-04-18 11:48:36,604 - Logger - INFO - Job status: 
+2024-04-18 11:48:41,834 - Logger - INFO - Job status: 
+2024-04-18 11:48:47,079 - Logger - INFO - Job status: 
+2024-04-18 11:48:52,319 - Logger - INFO - Job status: 
+2024-04-18 11:48:57,570 - Logger - INFO - Job status: 
+2024-04-18 11:49:02,807 - Logger - INFO - Job status: 
+2024-04-18 11:49:08,077 - Logger - INFO - Job status: 
+2024-04-18 11:49:13,350 - Logger - INFO - Job status: 
+2024-04-18 11:49:18,613 - Logger - INFO - Job status: 
+2024-04-18 11:49:23,853 - Logger - INFO - Job status: 
+2024-04-18 11:49:29,087 - Logger - INFO - Job status: 
+2024-04-18 11:49:34,342 - Logger - INFO - Job status: 
+2024-04-18 11:49:39,582 - Logger - INFO - Job status: 
+2024-04-18 11:49:44,820 - Logger - INFO - Job status: 
+2024-04-18 11:49:50,072 - Logger - INFO - Job status: 
+2024-04-18 11:49:55,326 - Logger - INFO - Job status: 
+2024-04-18 11:50:00,581 - Logger - INFO - Job status: 
+2024-04-18 11:50:05,817 - Logger - INFO - Job status: 
+2024-04-18 11:50:11,078 - Logger - INFO - Job status: 
+2024-04-18 11:50:16,337 - Logger - INFO - Job status: 
+2024-04-18 11:50:21,577 - Logger - INFO - Job status: 
+2024-04-18 11:50:26,816 - Logger - INFO - Job status: 
+2024-04-18 11:50:32,045 - Logger - INFO - Job status: 
+2024-04-18 11:50:37,328 - Logger - INFO - Job status: 
+2024-04-18 11:50:42,557 - Logger - INFO - Job status: 
+2024-04-18 11:50:47,804 - Logger - INFO - Job status: 
+2024-04-18 11:50:53,072 - Logger - INFO - Job status: 
+2024-04-18 11:50:58,333 - Logger - INFO - Job status: 
+2024-04-18 11:51:03,588 - Logger - INFO - Job status: 
+2024-04-18 11:51:08,817 - Logger - INFO - Job status: 
+2024-04-18 11:51:14,048 - Logger - INFO - Job status: 
+2024-04-18 11:51:19,282 - Logger - INFO - Job status: 
+2024-04-18 11:51:24,530 - Logger - INFO - Job status: 
+2024-04-18 11:51:29,790 - Logger - INFO - Job status: 
+2024-04-18 11:51:35,066 - Logger - INFO - Job status: 
+2024-04-18 11:51:40,344 - Logger - INFO - Job status: 
+2024-04-18 11:51:45,606 - Logger - INFO - Job status: 
+2024-04-18 11:51:50,847 - Logger - INFO - Job status: 
+2024-04-18 11:51:56,116 - Logger - INFO - Job status: 
+2024-04-18 11:52:06,272 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:52:06,841 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:52:06,841 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:52:06,842 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:52:07,149 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:52:07,369 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:52:33,348 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:52:33,938 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:52:33,939 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:52:33,939 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:52:34,236 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:52:34,449 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:53:14,941 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:53:15,514 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:53:15,515 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:53:15,515 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:53:15,862 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:53:16,079 - Logger - INFO - Job status: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Illegal character in path at index 65: http://www.ebi.ac.uk/Tools/services/generic/rest/clustalo/status/&lt;</description>
+</error>
+2024-04-18 11:54:20,361 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:54:20,974 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:54:20,976 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:54:20,976 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:54:21,287 - Logger - INFO - Job submitted successfully. Job ID: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:54:43,053 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:54:43,583 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:54:43,583 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:54:43,584 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:54:43,893 - Logger - ERROR - Error submitting job
+2024-04-18 11:54:57,653 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:54:58,221 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:54:58,222 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:54:58,222 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:54:58,530 - Logger - ERROR - Error submitting job
+2024-04-18 11:54:58,530 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:55:27,934 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:55:28,507 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:55:28,508 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:55:28,508 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:55:28,814 - Logger - ERROR - Error submitting job
+2024-04-18 11:55:28,815 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:56:45,903 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:56:46,461 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:56:46,462 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:56:46,462 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:56:46,791 - Logger - ERROR - Error submitting job
+2024-04-18 11:56:46,791 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:58:35,462 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:58:36,019 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:58:36,019 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:58:36,020 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:58:36,362 - Logger - ERROR - Error submitting job
+2024-04-18 11:58:36,363 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:58:52,669 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:58:53,227 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:58:53,227 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:58:53,228 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:58:53,534 - Logger - ERROR - Error submitting job
+2024-04-18 11:58:53,535 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:59:30,097 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:59:30,724 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:59:30,725 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:59:30,725 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:59:31,050 - Logger - ERROR - Error submitting job
+2024-04-18 11:59:31,050 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Error in reading input sequence. Please check your input.</description>
+</error>
+2024-04-18 11:59:39,958 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:59:40,480 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:59:40,481 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:59:40,481 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:59:42,799 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-115940-0726-42575515-p1m
+2024-04-18 11:59:52,554 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 11:59:53,134 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 11:59:53,135 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 11:59:53,136 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 11:59:55,465 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-115953-0391-31180607-p1m
+2024-04-18 11:59:56,052 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:00:02,746 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:00:03,721 - Logger - ERROR - Error retrieving results
+2024-04-18 12:00:13,398 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:00:14,002 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:00:14,002 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:00:14,003 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:00:16,349 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120014-0269-52996579-p1m
+2024-04-18 12:00:16,930 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:00:22,547 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:00:28,151 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:00:29,169 - Logger - ERROR - Error retrieving results
+2024-04-18 12:00:29,169 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-fasta' not available for the results of job 'clustalo-R20240418-120014-0269-52996579-p1m'</description>
+</error>
+2024-04-18 12:02:59,156 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:02:59,733 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:02:59,734 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:02:59,734 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:03:02,115 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120300-0034-36419049-p1m
+2024-04-18 12:03:02,697 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:03:08,330 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:03:09,270 - Logger - ERROR - Error retrieving results
+2024-04-18 12:03:09,270 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-clustal' not available for the results of job 'clustalo-R20240418-120300-0034-36419049-p1m'</description>
+</error>
+2024-04-18 12:06:50,880 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:06:51,461 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:06:51,461 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:06:51,462 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:06:53,833 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120651-0750-29307147-p1m
+2024-04-18 12:06:54,406 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:07:00,036 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:07:05,656 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:07:06,248 - Logger - ERROR - Error retrieving results
+2024-04-18 12:07:06,248 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>The requested model stream renderer 'aln-mfa' is not available</description>
+</error>
+2024-04-18 12:07:23,072 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:07:23,598 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:07:23,599 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:07:23,599 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:07:25,960 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120723-0873-90450321-p1m
+2024-04-18 12:07:26,557 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:07:32,170 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:07:33,132 - Logger - ERROR - Error retrieving results
+2024-04-18 12:07:33,133 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-msf' not available for the results of job 'clustalo-R20240418-120723-0873-90450321-p1m'</description>
+</error>
+2024-04-18 12:07:46,971 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:07:47,494 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:07:47,494 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:07:47,495 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:07:49,862 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120747-0759-61641964-p1m
+2024-04-18 12:07:50,469 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:07:56,072 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:08:01,677 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:08:02,631 - Logger - ERROR - Error retrieving results
+2024-04-18 12:08:02,631 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-phylip' not available for the results of job 'clustalo-R20240418-120747-0759-61641964-p1m'</description>
+</error>
+2024-04-18 12:08:10,520 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:08:11,098 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:08:11,099 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:08:11,099 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:08:13,608 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120811-0386-2477785-p1m
+2024-04-18 12:08:14,179 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:08:19,770 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:08:20,338 - Logger - ERROR - Error retrieving results
+2024-04-18 12:08:20,339 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>The requested model stream renderer 'aln-pir' is not available</description>
+</error>
+2024-04-18 12:08:29,621 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:08:30,235 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:08:30,236 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:08:30,236 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:08:32,574 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120830-0487-10221622-p1m
+2024-04-18 12:08:33,148 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:08:38,732 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:08:44,332 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:08:45,280 - Logger - ERROR - Error retrieving results
+2024-04-18 12:08:45,281 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-selex' not available for the results of job 'clustalo-R20240418-120830-0487-10221622-p1m'</description>
+</error>
+2024-04-18 12:08:49,126 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:08:49,669 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:08:49,670 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:08:49,670 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:08:51,996 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120849-0919-15750869-p1m
+2024-04-18 12:08:52,804 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:08:58,428 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:08:59,007 - Logger - ERROR - Error retrieving results
+2024-04-18 12:08:59,007 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>The requested model stream renderer 'aln-sth' is not available</description>
+</error>
+2024-04-18 12:09:01,480 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:09:02,096 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:09:02,097 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:09:02,097 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:09:04,436 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-120902-0353-3421012-p1m
+2024-04-18 12:09:05,008 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:09:10,839 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:09:11,806 - Logger - ERROR - Error retrieving results
+2024-04-18 12:09:11,806 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-vienna' not available for the results of job 'clustalo-R20240418-120902-0353-3421012-p1m'</description>
+</error>
+2024-04-18 12:14:48,026 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:14:48,648 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:14:48,649 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:14:48,649 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:14:50,992 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-121448-0912-24729805-p1m
+2024-04-18 12:14:51,584 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:14:57,221 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:14:58,183 - Logger - INFO - Alignment saved to 'alignment.txt'
+2024-04-18 12:20:21,399 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:20:22,081 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:20:22,082 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:20:22,082 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:20:35,638 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:20:36,227 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:20:36,228 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:20:36,228 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:20:38,607 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-122036-0521-82100657-p1m
+2024-04-18 12:20:39,190 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:20:44,942 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:20:45,955 - Logger - INFO - Alignment saved to 'alignment.txt'
+2024-04-18 12:21:15,296 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-18 12:21:15,864 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-18 12:21:15,865 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-18 12:21:15,865 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-18 12:21:18,226 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240418-122116-0145-21383086-p1m
+2024-04-18 12:21:18,817 - Logger - INFO - Job status: QUEUED
+2024-04-18 12:21:24,446 - Logger - INFO - Job status: RUNNING
+2024-04-18 12:21:30,129 - Logger - INFO - Job status: FINISHED
+2024-04-18 12:21:31,127 - Logger - INFO - Alignment saved to 'alignment.txt'

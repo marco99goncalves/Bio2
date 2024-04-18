@@ -1,9 +1,9 @@
 import requests
 
-PATH = "Sequences"
-UNIPROT_ID = 'P68871'
+import Logger
+logger = Logger.setup_logger()
 
-def fetch_uniprot_sequence(uniprot_id):
+def fetch_uniprot_sequence(uniprot_id, fasta_path):
     """
     Fetches the sequence and additional information for a given UniProt ID.
     Args:
@@ -17,14 +17,10 @@ def fetch_uniprot_sequence(uniprot_id):
     
     if response.ok:
         fasta_data = response.text
-        print(fasta_data)  # For demonstration, printing the data
-        
-        # Write the sequence to a file
-        with open(f"{PATH}/sequence_{uniprot_id}.fasta", 'w') as file:
-            file.write(fasta_data)
-        print(f"Sequence written to {PATH}/{uniprot_id}.fasta")
-    else:
-        print(f"Failed to retrieve data for UniProt ID {uniprot_id}")
 
-# Example usage:
-fetch_uniprot_sequence(UNIPROT_ID)  # Hemoglobin subunit beta (This ID might change)
+        # Write the sequence to a file
+        with open(fasta_path, 'w') as file:
+            file.write(fasta_data)
+        logger.info(f"Sequence written to {fasta_path}\n")
+    else:
+        logger.error(f"Failed to retrieve data for UniProt ID {uniprot_id}\n")

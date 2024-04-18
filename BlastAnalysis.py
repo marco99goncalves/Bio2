@@ -1,50 +1,46 @@
 from Bio.Blast import NCBIWWW
 from Bio.Blast import NCBIXML
 from Bio import SeqIO
+import Logger
 
-UNIPROT_ID = 'P68871'
+logger = Logger.setup_logger()
 
 def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=10):
     # Read the fasta sequence
-    print("0\n")
 
     record = SeqIO.read(fasta_path, format="fasta")
-    print("11\n")
     
     # Perform BLAST search
-    result_handle = NCBIWWW.qblast("blastp", "nr", record.seq)
-    print("2\n")
-    
-    # Parse BLAST results
+
+    #result_handle = NCBIWWW.qblast("blastp", "nr", record.seq, hitlist_size=1000)
+
+    result_handle = NCBIWWW.qblast( program="blastp", database="nr", sequence=record.seq,
+                                    expect=0.05, word_size=5,
+                                    matrix_name="BLOSUM62", gapcosts="11 1",
+                                    hitlist_size=100)
+
+    logger.info("BLAST search completed. Parsing results...\n")
+
     blast_records = NCBIXML.parse(result_handle)
-    print("3\n")
+    logger.info("BLAST search parsed.\n")
+
     # Extract top hits for different species
     hits = {}
-    print(blast_records)
     for blast_record in blast_records:
         for alignment in blast_record.alignments:
             for hsp in alignment.hsps:
+                species_name = alignment.hit_def.split(">")[0].split("[")[-1].replace("]", "").strip().lower()
                 if len(hits) >= top_hits:
                     break
-                species_name = alignment.hit_def.split(">")[0].split("[")[-1].replace("]", "")
-                #
-                # if species_name not in hits and species_name != "Homo sapiens":
-                if species_name != "Homo sapiens":
-                    hits[species_name] = hsp.sbjct
-    print("4\n")
+
+                if species_name not in hits and species_name.find("homo sapiens") == -1:
+                    hits[species_name] = (hsp.sbjct, hsp.score)
 
     # Write top hits to a file
     with open(output_path, "w") as output_file:
-        for species, sequence in hits.items():
+        for species, (sequence, score) in hits.items():
             output_file.write(f">{species}\n{sequence}\n")
-    print("3\n")
+
+    logger.info("Sequences written to {output_path}\n")
 
     return output_path
-
-# The fasta file should already contain the sequence you want to blast
-fasta_path = f"Sequences/sequence_{UNIPROT_ID}.fasta"
-output_path = f"Phase2/sequences_{UNIPROT_ID}.fasta"
-
-# Run the function
-output_file = blast_sequence_and_get_top_hits(fasta_path, output_path)
-print(f"Top hits written to {output_file}")
