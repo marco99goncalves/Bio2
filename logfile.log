@@ -792,3 +792,187 @@ Sequence -> Error in reading input sequence. Please check your input.</descripti
 2024-04-18 12:21:24,446 - Logger - INFO - Job status: RUNNING
 2024-04-18 12:21:30,129 - Logger - INFO - Job status: FINISHED
 2024-04-18 12:21:31,127 - Logger - INFO - Alignment saved to 'alignment.txt'
+2024-04-20 15:06:01,128 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:06:01,790 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:06:01,790 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:06:01,791 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:06:04,200 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240420-150605-0699-48170183-p1m
+2024-04-20 15:06:04,769 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:06:10,489 - Logger - INFO - Job status: FINISHED
+2024-04-20 15:06:11,479 - Logger - INFO - Alignment saved to 'alignment.txt'
+2024-04-20 15:07:19,984 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:07:20,525 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:07:20,526 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:07:20,526 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:07:20,526 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+2024-04-20 15:07:22,852 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240420-150724-0351-57886020-p1m
+2024-04-20 15:07:23,456 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:07:29,053 - Logger - INFO - Job status: FINISHED
+2024-04-20 15:07:29,999 - Logger - INFO - Alignment saved to 'alignment.txt'
+2024-04-20 15:07:30,001 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-20 15:07:30,002 - Logger - INFO - Building the phylogenetic tree...
+2024-04-20 15:07:30,028 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+2024-04-20 15:07:30,184 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+2024-04-20 15:07:30,185 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-20 15:08:54,087 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:08:54,625 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:08:54,626 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:08:54,626 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:08:54,626 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-20 15:08:56,976 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240420-150858-0473-9455449-p1m
+2024-04-20 15:08:57,537 - Logger - INFO - Job status: RUNNING
+2024-04-20 15:09:03,134 - Logger - INFO - Job status: RUNNING
+2024-04-20 15:09:08,725 - Logger - INFO - Job status: FINISHED
+2024-04-20 15:09:09,874 - Logger - INFO - Alignment saved to 'alignment.txt'
+2024-04-20 15:09:09,876 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-20 15:09:09,877 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-20 15:09:09,906 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-20 15:09:10,091 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-20 15:09:10,092 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-20 15:11:33,645 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:11:34,187 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:11:34,189 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:12:49,769 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-20 15:12:49,770 - Logger - INFO - BLAST search parsed.
+
+2024-04-20 15:12:49,833 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-20 15:12:49,834 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:12:49,834 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-20 15:12:50,137 - Logger - ERROR - Error submitting job
+2024-04-20 15:12:50,137 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: pongo. Two sequences cannot share the same identifier</description>
+</error>
+2024-04-20 15:12:50,137 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-20 15:12:50,137 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-20 15:12:50,164 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-20 15:12:50,365 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-20 15:12:50,365 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-20 15:18:29,333 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:18:29,873 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:18:29,874 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:20:50,505 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-20 15:20:50,505 - Logger - INFO - BLAST search parsed.
+
+2024-04-20 15:20:50,570 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-20 15:20:50,571 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:20:50,572 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-20 15:20:50,886 - Logger - ERROR - Error submitting job
+2024-04-20 15:20:50,886 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: pongo. Two sequences cannot share the same identifier</description>
+</error>
+2024-04-20 15:20:50,886 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-20 15:20:50,887 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-20 15:29:31,339 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:29:31,898 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:29:31,899 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:29:43,580 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:29:44,103 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:29:44,104 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:31:00,227 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-20 15:31:00,227 - Logger - INFO - BLAST search parsed.
+
+2024-04-20 15:31:00,307 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-20 15:31:00,308 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:31:00,309 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-20 15:31:02,793 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240420-153104-0280-54366660-p1m
+2024-04-20 15:31:03,368 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:31:04,935 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:31:06,514 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:31:08,109 - Logger - INFO - Job status: FINISHED
+2024-04-20 15:31:09,104 - Logger - INFO - Alignment saved to alignment.txt
+2024-04-20 15:31:09,107 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-20 15:31:09,107 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-20 15:31:09,305 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-20 15:31:09,673 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-20 15:31:09,673 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-20 15:32:33,366 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-20 15:32:34,047 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-20 15:32:34,048 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-20 15:34:36,846 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-20 15:34:36,847 - Logger - INFO - BLAST search parsed.
+
+2024-04-20 15:34:36,918 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-20 15:34:36,918 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-20 15:34:36,919 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-20 15:34:39,243 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240420-153440-0729-16624570-p1m
+2024-04-20 15:34:39,812 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:34:41,383 - Logger - INFO - Job status: QUEUED
+2024-04-20 15:34:42,978 - Logger - INFO - Job status: FINISHED
+2024-04-20 15:34:43,907 - Logger - INFO - Alignment saved to alignment.txt
+2024-04-20 15:34:43,909 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-20 15:34:43,910 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-20 15:34:43,941 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-20 15:34:44,138 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-20 15:34:44,139 - Logger - INFO - Phylogenetic tree built successfully.
+

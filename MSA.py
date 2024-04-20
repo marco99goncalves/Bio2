@@ -42,15 +42,15 @@ def align_sequences(input_file, output_file):
         logger.info(f"Job status: {status}")
         if status == 'FINISHED':
             break
-        time.sleep(5)
+        time.sleep(1)
 
     # Retrieve the results
     result_url = url + f"/result/{job_id}/fa"
     result_response = requests.get(result_url)
     if result_response.ok:
-        with open('alignment.txt', 'w') as file:
+        with open(output_file, 'w') as file:
             file.write(result_response.text)
-        logger.info("Alignment saved to 'alignment.txt'")
+        logger.info(f"Alignment saved to {output_file}")
     else:
         logger.error("Error retrieving results")
         logger.error(result_response.text)
