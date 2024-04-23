@@ -16,16 +16,16 @@ PHASE3_OUTPUT_PATH = "alignment.txt"
 
 
 logger.info(f"Collecting the sequence for UniProt ID {UNIPROT_ID}... \n")
-DataCollection.fetch_uniprot_sequence(uniprot_id=UNIPROT_ID, fasta_path=FASTA_PATH)
+#DataCollection.fetch_uniprot_sequence(uniprot_id=UNIPROT_ID, fasta_path=FASTA_PATH)
 
 logger.info(f"Performing BLAST analysis for UniProt ID {UNIPROT_ID}... (This may take some time)\n")
-BlastAnalysis.blast_sequence_and_get_top_hits(fasta_path=FASTA_PATH, output_path=PHASE2_OUTPUT_PATH)
+#BlastAnalysis.blast_sequence_and_get_top_hits(fasta_path=FASTA_PATH, output_path=PHASE2_OUTPUT_PATH)
 logger.info(f"BLAST analysis completed. Results written to {PHASE2_OUTPUT_PATH}\n")
 
 
 # Run the MSA
 logger.info("Running the multiple sequence alignment (MSA)...\n")
-MSA.align_sequences(PHASE2_OUTPUT_PATH, PHASE3_OUTPUT_PATH)
+#MSA.align_sequences(PHASE2_OUTPUT_PATH, PHASE3_OUTPUT_PATH)
 logger.info(f"MSA completed. Results written to {PHASE3_OUTPUT_PATH}\n")
 
 

@@ -976,3 +976,247 @@ Sequence -> Duplicated ID: pongo. Two sequences cannot share the same identifier
 
 2024-04-20 15:34:44,139 - Logger - INFO - Phylogenetic tree built successfully.
 
+2024-04-23 11:54:15,811 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 11:54:16,347 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-23 11:54:16,348 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 12:19:20,120 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-23 12:19:20,120 - Logger - INFO - BLAST search parsed.
+
+2024-04-23 12:19:20,183 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-23 12:19:20,184 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 12:19:20,184 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 12:19:22,581 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240423-121923-0193-42725799-p1m
+2024-04-23 12:19:23,140 - Logger - INFO - Job status: RUNNING
+2024-04-23 12:19:24,707 - Logger - INFO - Job status: RUNNING
+2024-04-23 12:19:26,326 - Logger - INFO - Job status: RUNNING
+2024-04-23 12:19:27,936 - Logger - INFO - Job status: FINISHED
+2024-04-23 12:19:28,888 - Logger - INFO - Alignment saved to alignment.txt
+2024-04-23 12:19:28,890 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 12:19:28,891 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 12:19:28,936 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-23 12:19:29,180 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-23 12:19:29,181 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 12:43:28,425 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 12:43:28,425 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 12:43:28,425 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 12:43:28,425 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 12:43:28,425 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 12:43:28,426 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 12:44:12,446 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 12:44:12,446 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 12:44:12,446 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 12:44:12,446 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 12:44:12,446 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 12:44:12,446 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 12:44:12,477 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-23 12:44:12,674 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-23 12:44:12,675 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 19:38:15,290 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 19:38:15,290 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 19:38:15,290 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 19:38:15,291 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 19:38:15,291 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 19:38:15,291 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 19:38:16,980 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-23 19:38:17,181 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-23 19:38:17,182 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 19:53:22,125 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 19:53:22,125 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 19:53:22,125 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 19:53:22,125 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 19:53:22,125 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 19:53:22,126 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 19:53:22,165 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-23 19:53:22,344 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-23 19:53:22,344 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 19:53:53,470 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 19:53:53,470 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 19:53:53,471 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 19:53:53,471 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 19:53:53,471 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 19:53:53,471 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 19:53:53,508 - Logger - INFO - Saving phylogenetic tree as 'phylogenetic_tree.pdf'
+
+2024-04-23 19:53:53,692 - Logger - INFO - Saving phylogenetic tree in Newick format as 'phylogenetic_tree.newick'
+
+2024-04-23 19:53:53,693 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 19:59:04,770 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 19:59:04,770 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 19:59:04,770 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 19:59:04,770 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 19:59:04,770 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 19:59:04,771 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 19:59:30,967 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 19:59:30,967 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 19:59:30,967 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 19:59:30,967 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 19:59:30,967 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 19:59:30,967 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 19:59:31,088 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 20:28:48,271 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 20:28:48,271 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 20:28:48,271 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 20:28:48,271 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 20:28:48,271 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 20:28:48,271 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 20:30:38,675 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 20:30:38,675 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 20:30:38,675 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 20:30:38,676 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 20:30:38,676 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 20:30:38,676 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 20:31:01,892 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 20:31:01,892 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 20:31:01,892 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 20:31:01,892 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 20:31:01,892 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 20:31:01,893 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 20:31:02,041 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 20:35:41,880 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 20:35:41,880 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 20:35:41,880 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 20:35:41,880 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 20:35:41,880 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 20:35:41,881 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 20:36:00,362 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 20:36:00,362 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 20:36:00,362 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 20:36:00,362 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 20:36:00,362 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 20:36:00,363 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 20:36:00,583 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-23 21:05:03,135 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 21:05:03,135 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 21:05:03,136 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 21:05:03,136 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 21:05:03,136 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 21:05:03,136 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 21:05:15,070 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 21:05:15,070 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 21:05:15,070 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 21:05:15,070 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 21:05:15,070 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 21:05:15,070 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 21:05:25,625 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-23 21:05:25,625 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-23 21:05:25,625 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-23 21:05:25,625 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-23 21:05:25,625 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-23 21:05:25,625 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-23 21:05:26,028 - Logger - INFO - Phylogenetic tree built successfully.
+
