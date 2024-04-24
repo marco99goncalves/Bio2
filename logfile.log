@@ -1220,3 +1220,135 @@ Sequence -> Duplicated ID: pongo. Two sequences cannot share the same identifier
 
 2024-04-23 21:05:26,028 - Logger - INFO - Phylogenetic tree built successfully.
 
+2024-04-24 11:11:29,946 - Logger - INFO - Collecting the sequence for UniProt ID P6887... 
+
+2024-04-24 11:11:31,194 - Logger - ERROR - Failed to retrieve data for UniProt ID P6887
+
+2024-04-24 11:11:31,195 - Logger - INFO - Performing BLAST analysis for UniProt ID P6887... (This may take some time)
+
+2024-04-24 11:12:13,854 - Logger - INFO - Collecting the sequence for UniProt ID P6887... 
+
+2024-04-24 11:12:14,554 - Logger - ERROR - Failed to retrieve data for UniProt ID P6887
+
+2024-04-24 11:12:14,555 - Logger - INFO - Performing BLAST analysis for UniProt ID P6887... (This may take some time)
+
+2024-04-24 11:12:47,338 - Logger - INFO - Collecting the sequence for UniProt ID P6887... 
+
+2024-04-24 11:12:48,042 - Logger - ERROR - Failed to retrieve data for UniProt ID P6887
+
+2024-04-24 11:12:48,042 - Logger - ERROR - Response status code: 400
+
+2024-04-24 11:12:48,042 - Logger - ERROR - Response text: Error messages
+The 'accession' value has invalid format. It should be a valid UniProtKB accession
+
+2024-04-24 11:12:48,043 - Logger - INFO - Performing BLAST analysis for UniProt ID P6887... (This may take some time)
+
+2024-04-24 11:13:15,116 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 11:13:15,820 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 11:13:15,821 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-24 12:11:53,402 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 12:11:54,753 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 12:11:54,754 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-04-24 12:12:16,526 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 12:12:17,327 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 12:12:17,328 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-04-24 12:12:17,329 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 12:12:20,092 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240424-121217-0992-99172017-p1m
+2024-04-24 12:12:20,929 - Logger - INFO - Job status: QUEUED
+2024-04-24 12:12:22,947 - Logger - INFO - Job status: QUEUED
+2024-04-24 12:12:24,893 - Logger - INFO - Job status: RUNNING
+2024-04-24 12:12:26,735 - Logger - INFO - Job status: RUNNING
+2024-04-24 12:12:28,579 - Logger - INFO - Job status: FINISHED
+2024-04-24 12:12:30,012 - Logger - INFO - Alignment saved to alignment.txt
+2024-04-24 12:12:30,015 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 12:12:30,015 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 12:12:30,294 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-04-24 12:12:30,294 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-24 12:13:29,298 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 12:13:30,218 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 12:13:30,219 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-04-24 12:13:30,219 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 12:13:30,691 - Logger - ERROR - Error submitting job
+2024-04-24 12:13:30,691 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the same identifier</description>
+</error>
+2024-04-24 12:13:30,691 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 12:13:30,691 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 12:13:30,962 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-04-24 12:13:30,962 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-24 12:14:07,730 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 12:14:08,491 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 12:14:08,493 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 12:14:08,905 - Logger - ERROR - Error submitting job
+2024-04-24 12:14:08,905 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the same identifier</description>
+</error>
+2024-04-24 12:14:08,905 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 12:14:08,905 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 12:14:09,187 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-04-24 12:14:09,187 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-24 12:15:56,710 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 12:15:57,780 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 12:15:57,781 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 12:15:58,254 - Logger - ERROR - Error submitting job
+2024-04-24 12:15:58,254 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the same identifier</description>
+</error>
+2024-04-24 12:15:58,254 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 12:15:58,255 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 12:16:36,081 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 12:16:36,831 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 12:16:36,833 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 12:16:37,358 - Logger - ERROR - Error submitting job
+2024-04-24 12:16:37,359 - Logger - ERROR - <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the same identifier</description>
+</error>
+2024-04-24 12:16:37,359 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 12:16:37,359 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 12:16:37,612 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-04-24 12:16:37,612 - Logger - INFO - Phylogenetic tree built successfully.
+

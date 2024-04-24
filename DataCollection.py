@@ -24,3 +24,5 @@ def fetch_uniprot_sequence(uniprot_id, fasta_path):
         logger.info(f"Sequence written to {fasta_path}\n")
     else:
         logger.error(f"Failed to retrieve data for UniProt ID {uniprot_id}\n")
+        logger.error(f"Response status code: {response.status_code}\n")
+        logger.error(f"Response text: {response.text}\n")

@@ -5,7 +5,7 @@ import Logger
 
 logger = Logger.setup_logger()
 
-def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=10):
+def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=11):
     # Read the fasta sequence
 
     record = SeqIO.read(fasta_path, format="fasta")
@@ -33,7 +33,7 @@ def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=10):
                 if len(hits) >= top_hits:
                     break
 
-                if species_name not in hits and species_name.find("homo sapiens") == -1:
+                if species_name not in hits and species_name.find("synthetic") == -1:
                     hits[species_name.replace(" ", "_")] = (hsp.sbjct, hsp.score)
 
     # Write top hits to a file

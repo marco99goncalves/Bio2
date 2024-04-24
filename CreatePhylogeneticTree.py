@@ -3,6 +3,9 @@ from Bio.Phylo.TreeConstruction import DistanceCalculator, DistanceTreeConstruct
 from Bio import Phylo
 import matplotlib.pyplot as plt
 import os
+import Logger
+
+logger = Logger.setup_logger()
 
 def make_pretty_tree(tree):
     """
@@ -53,6 +56,6 @@ def build(alignment_path, export_formats=["pdf"]):
     file_basename = "Outputs/PhylogeneticTree"
     for export_format in export_formats:
         plt.savefig(f"{file_basename}.{export_format}")
-        print(f"Exported tree to {file_basename}.{export_format}")
+        logger.info(f"Exported tree to {file_basename}.{export_format}")
     
     plt.close()
