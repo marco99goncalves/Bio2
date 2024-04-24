@@ -35,6 +35,8 @@ def align_sequences(input_file, output_file):
     job_id = response.text
     logger.info(f"Job submitted successfully. Job ID: {job_id}")
 
+    waitTime = 1
+    timesWaited = 0
     # Check job status
     while True:
         status_response = requests.get(url + f"/status/{job_id}")
@@ -42,7 +44,11 @@ def align_sequences(input_file, output_file):
         logger.info(f"Job status: {status}")
         if status == 'FINISHED':
             break
-        time.sleep(1)
+        timesWaited += 1
+        if(timesWaited == 5): #Serves way to prevent too much logging
+            waitTime *= 2
+            timesWaited = 0
+        time.sleep(waitTime)
 
     # Retrieve the results
     result_url = url + f"/result/{job_id}/fa"

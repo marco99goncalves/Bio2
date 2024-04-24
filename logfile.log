@@ -1352,3 +1352,113 @@ Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the s
 2024-04-24 12:16:37,612 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
 2024-04-24 12:16:37,612 - Logger - INFO - Phylogenetic tree built successfully.
 
+2024-04-24 19:33:07,021 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 19:33:07,606 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 19:33:07,607 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-24 19:34:11,522 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-24 19:34:11,522 - Logger - INFO - BLAST search parsed.
+
+2024-04-24 19:34:11,587 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-24 19:34:11,588 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-24 19:34:11,588 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-04-24 19:34:11,588 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 19:34:14,931 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240424-193416-0748-34616111-p1m
+2024-04-24 19:34:15,546 - Logger - INFO - Job status: QUEUED
+2024-04-24 19:34:17,181 - Logger - INFO - Job status: QUEUED
+2024-04-24 19:34:18,747 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:20,315 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:21,877 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:23,452 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:25,052 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:26,887 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:28,497 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:30,083 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:31,651 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:33,262 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:34,841 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:36,398 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:38,016 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:39,575 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:41,134 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:42,696 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:44,284 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:45,866 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:47,488 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:49,038 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:50,605 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:52,213 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:53,789 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:55,417 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:57,010 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:34:58,580 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:00,140 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:01,695 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:03,263 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:04,827 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:06,391 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:07,988 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:09,552 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:11,118 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:12,687 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:14,287 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:15,855 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:17,412 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:18,983 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:20,535 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:22,095 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:23,702 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:25,300 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:26,871 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:28,451 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:30,027 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:31,790 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:33,348 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:34,992 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:36,544 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:38,146 - Logger - INFO - Job status: RUNNING
+2024-04-24 19:35:39,723 - Logger - INFO - Job status: FINISHED
+2024-04-24 19:35:40,756 - Logger - INFO - Alignment saved to alignment.txt
+2024-04-24 19:35:40,759 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 19:35:40,760 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 19:35:41,293 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-04-24 19:35:41,293 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-04-24 19:40:16,853 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-04-24 19:40:17,448 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-04-24 19:40:17,449 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-04-24 19:43:39,309 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-04-24 19:43:39,310 - Logger - INFO - BLAST search parsed.
+
+2024-04-24 19:43:39,372 - Logger - INFO - Sequences written to {output_path}
+
+2024-04-24 19:43:39,373 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-04-24 19:43:39,373 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-04-24 19:43:39,373 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-04-24 19:43:41,759 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240424-194343-0688-20194763-p1m
+2024-04-24 19:43:42,309 - Logger - INFO - Job status: QUEUED
+2024-04-24 19:43:43,869 - Logger - INFO - Job status: FINISHED
+2024-04-24 19:43:44,830 - Logger - INFO - Alignment saved to alignment.txt
+2024-04-24 19:43:44,832 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-04-24 19:43:44,832 - Logger - INFO - Building the phylogenetic tree...
+
+2024-04-24 19:43:45,218 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-04-24 19:43:45,218 - Logger - INFO - Phylogenetic tree built successfully.
+
