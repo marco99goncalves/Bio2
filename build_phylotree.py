@@ -18,14 +18,12 @@ PHYLO_FILE_NAME = "PhylogeneticTree"
 RUN_BLASTA = True
 RUN_MSA = True
 
-MATRIX="BLOSUM62"
-
 logger.info(f"Collecting the sequence for UniProt ID {UNIPROT_ID}... \n")
 DataCollection.fetch_uniprot_sequence(uniprot_id=UNIPROT_ID, fasta_path=FASTA_PATH)
 
 if RUN_BLASTA:
     logger.info(f"Performing BLAST analysis for UniProt ID {UNIPROT_ID}... (This may take some time)\n")
-    BlastAnalysis.blast_sequence_and_get_top_hits(fasta_path=FASTA_PATH, output_path=PHASE2_OUTPUT_PATH, matrix_name=MATRIX)
+    BlastAnalysis.blast_sequence_and_get_top_hits(fasta_path=FASTA_PATH, output_path=PHASE2_OUTPUT_PATH)
     logger.info(f"BLAST analysis completed. Results written to {PHASE2_OUTPUT_PATH}\n")
 
 

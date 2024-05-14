@@ -36,10 +36,8 @@ def build(alignment_path, output_filename, uniprot_id, export_formats=["pdf"]):
     # Read the alignment file
     alignment = AlignIO.read(alignment_path, "fasta")
     
-    matrix_name = matrix_name.lower()
-
     # Calculate the distance matrix using the 'blosum62' model
-    calculator = DistanceCalculator(matrix_name)
+    calculator = DistanceCalculator("blosum62")
     distance_matrix = calculator.get_distance(alignment)
     
     # Construct the phylogenetic tree using the Neighbor-Joining algorithm
