@@ -7,13 +7,9 @@ logger = Logger.setup_logger()
 
 def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=11):
     # Read the fasta sequence
-
     record = SeqIO.read(fasta_path, format="fasta")
     
     # Perform BLAST search
-
-    #result_handle = NCBIWWW.qblast("blastp", "nr", record.seq, hitlist_size=1000)
-
     result_handle = NCBIWWW.qblast( program="blastp", database="nr", sequence=record.seq,
                                     expect=0.05, word_size=5,
                                     matrix_name="BLOSUM62", gapcosts="11 1",

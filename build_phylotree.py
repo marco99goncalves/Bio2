@@ -12,6 +12,7 @@ UNIPROT_ID = sys.argv[1]
 FASTA_PATH = "sequence.fasta"
 PHASE2_OUTPUT_PATH = "sequences_to_analyse.fasta"
 PHASE3_OUTPUT_PATH = "alignment.txt"
+PHYLO_FILE_NAME = "PhylogeneticTree"
 
 
 RUN_BLASTA = True
@@ -39,5 +40,5 @@ logger.info(f"MSA completed. Results written to {PHASE3_OUTPUT_PATH}\n")
 
 # Build the phylogenetic tree
 logger.info("Building the phylogenetic tree...\n")
-CreatePhylogeneticTree.build(PHASE3_OUTPUT_PATH)
+CreatePhylogeneticTree.build(PHASE3_OUTPUT_PATH, PHYLO_FILE_NAME, UNIPROT_ID, export_formats=["pdf"])
 logger.info("Phylogenetic tree built successfully.\n")

@@ -25,7 +25,7 @@ def make_pretty_tree(tree):
     # Set the style of the tree
     tree.ladderize()  # Ladderize to organize the tree
 
-def build(alignment_path, export_formats=["pdf"]):
+def build(alignment_path, output_filename, uniprot_id, export_formats=["pdf"]):
     # Read the alignment file
     alignment = AlignIO.read(alignment_path, "fasta")
     
@@ -48,14 +48,13 @@ def build(alignment_path, export_formats=["pdf"]):
     Phylo.draw(tree, do_show=False, axes=ax)
     
     # Set the title and font size for the labels
-    ax.set_title('Phylogenetic Tree', fontsize=16)
+    ax.set_title(f"Phylogenetic Tree for sequence {uniprot_id}", fontsize=16)
     for label in ax.get_xticklabels() + ax.get_yticklabels():
         label.set_fontsize(12)
     
     # Export the tree to the specified file formats
-    file_basename = "Outputs/PhylogeneticTree"
     for export_format in export_formats:
-        plt.savefig(f"{file_basename}.{export_format}")
-        logger.info(f"Exported tree to {file_basename}.{export_format}")
+        plt.savefig(f"{output_filename}.{export_format}")
+        logger.info(f"Exported tree to {output_filename}.{export_format}")
     
     plt.close()
