@@ -47,9 +47,5 @@ else:
 
 # Build the phylogenetic tree
 logger.info("Building the phylogenetic tree...\n")
-<<<<<<< HEAD
-CreatePhylogeneticTree.build(PHASE3_OUTPUT_PATH, matrix_name=MATRIX)
-=======
 CreatePhylogeneticTree.build(PHASE3_OUTPUT_PATH, PHYLO_FILE_NAME, UNIPROT_ID, export_formats=["pdf"])
->>>>>>> refs/remotes/origin/main
 logger.info("Phylogenetic tree built successfully.\n")

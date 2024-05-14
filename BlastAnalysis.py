@@ -5,11 +5,7 @@ import Logger
 
 logger = Logger.setup_logger()
 
-<<<<<<< HEAD
-def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=10, matrix_name="BLOSUM80"):
-=======
 def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=10):
->>>>>>> refs/remotes/origin/main
     # Read the fasta sequence
     record = SeqIO.read(fasta_path, format="fasta")
     
