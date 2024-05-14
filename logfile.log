@@ -1462,6 +1462,7 @@ Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the s
 2024-04-24 19:43:45,218 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
 2024-04-24 19:43:45,218 - Logger - INFO - Phylogenetic tree built successfully.
 
+<<<<<<< HEAD
 2024-05-08 23:49:38,248 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
 
 2024-05-08 23:49:38,811 - Logger - INFO - Sequence written to sequence.fasta
@@ -2021,4 +2022,71 @@ Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the s
 
 2024-05-10 23:05:33,684 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
 2024-05-10 23:05:33,684 - Logger - INFO - Phylogenetic tree built successfully.
+=======
+2024-05-14 16:46:26,615 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-14 16:46:27,661 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-14 16:46:27,661 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-14 16:46:40,010 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-14 16:46:40,757 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-14 16:46:40,758 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-14 16:53:48,794 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-14 16:53:48,794 - Logger - INFO - BLAST search parsed.
+
+2024-05-14 16:53:48,847 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-14 16:53:48,848 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-14 16:53:48,848 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-14 16:53:48,849 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-14 16:53:51,408 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240514-165349-0375-61752174-p1m
+2024-05-14 16:53:52,298 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:53:54,190 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:53:56,054 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:53:57,946 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:53:59,841 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:02,785 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:06,455 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:09,342 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:12,298 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:15,809 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:22,684 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:27,541 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:32,764 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:37,682 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:42,564 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:54:51,708 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:55:01,640 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:55:10,494 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:55:19,432 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:55:28,370 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:55:45,265 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:56:02,196 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:56:19,068 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:56:35,959 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:56:52,926 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:57:25,877 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:57:58,806 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:58:31,976 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:59:04,848 - Logger - INFO - Job status: QUEUED
+2024-05-14 16:59:37,923 - Logger - INFO - Job status: QUEUED
+2024-05-14 17:00:42,950 - Logger - INFO - Job status: QUEUED
+2024-05-14 17:01:47,870 - Logger - INFO - Job status: QUEUED
+2024-05-14 17:02:53,005 - Logger - INFO - Job status: FINISHED
+2024-05-14 17:02:53,841 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-14 17:02:53,845 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-14 17:02:53,845 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-14 17:02:54,223 - Logger - INFO - Exported tree to PhylogeneticTree.pdf
+2024-05-14 17:02:54,224 - Logger - INFO - Phylogenetic tree built successfully.
+>>>>>>> refs/remotes/origin/main
 

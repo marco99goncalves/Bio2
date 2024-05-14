@@ -45,7 +45,7 @@ def align_sequences(input_file, output_file):
         if status == 'FINISHED':
             break
         timesWaited += 1
-        if(timesWaited == 5): #Serves way to prevent too much logging
+        if(timesWaited == 5): #Serves as a way to prevent too much logging
             waitTime *= 2
             timesWaited = 0
         time.sleep(waitTime)
