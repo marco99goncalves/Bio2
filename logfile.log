@@ -1462,3 +1462,563 @@ Sequence -> Duplicated ID: sp|P68871|HBB_HUMAN. Two sequences cannot share the s
 2024-04-24 19:43:45,218 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
 2024-04-24 19:43:45,218 - Logger - INFO - Phylogenetic tree built successfully.
 
+2024-05-08 23:49:38,248 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-08 23:49:38,811 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-08 23:49:38,812 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-09 00:03:55,856 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-09 00:03:55,856 - Logger - INFO - BLAST search parsed.
+
+2024-05-09 00:03:55,927 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-09 00:03:55,928 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-09 00:03:55,928 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-09 00:03:55,929 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-09 00:03:58,501 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240509-000356-0707-22533273-p1m
+2024-05-09 00:04:00,441 - Logger - INFO - Job status: QUEUED
+2024-05-09 00:04:02,153 - Logger - INFO - Job status: FINISHED
+2024-05-09 00:04:02,860 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-09 00:04:02,863 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-09 00:04:02,864 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 00:04:03,464 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-09 00:04:03,465 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-09 16:04:16,706 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 16:04:17,249 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 16:04:17,250 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-09 16:04:19,658 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240509-160419-0413-22780326-p1m
+2024-05-09 16:04:20,373 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:22,107 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:23,823 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:25,571 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:27,386 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:30,119 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:32,948 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:35,719 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:39,126 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:41,875 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:46,663 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:51,452 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:04:56,192 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:00,984 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:05,745 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:14,508 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:23,283 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:32,071 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:40,877 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:05:49,676 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:06:06,505 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:06:23,384 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:06:40,224 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:06:57,007 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:07:13,771 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:07:46,557 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:08:19,384 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:08:52,183 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:09:24,999 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:09:57,881 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:11:02,714 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:12:08,624 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 16:12:09,163 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 16:12:09,164 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-09 16:14:18,336 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-09 16:14:18,336 - Logger - INFO - BLAST search parsed.
+
+2024-05-09 16:14:18,401 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-09 16:14:18,402 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-09 16:14:18,402 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-09 16:14:18,402 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-09 16:14:20,749 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240509-161420-0503-18386476-p1m
+2024-05-09 16:14:21,530 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:23,322 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:25,146 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:26,899 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:28,647 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:31,491 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:34,391 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:37,268 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:41,007 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:43,744 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:48,526 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:53,325 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:14:58,094 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:02,858 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:07,593 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:16,339 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:25,113 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:33,902 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:42,682 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:15:51,441 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:16:08,223 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:16:25,196 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:16:41,995 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:16:58,931 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:17:15,745 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:17:48,587 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:18:21,405 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:18:54,231 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:19:27,020 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:19:59,854 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:21:04,702 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:22:09,491 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:23:14,318 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:24:19,156 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:25:24,018 - Logger - INFO - Job status: QUEUED
+2024-05-09 16:26:05,793 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 16:26:06,361 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 16:26:06,362 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-09 16:30:01,207 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 16:30:01,784 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 16:30:01,784 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-09 16:30:01,785 - Logger - INFO - Skipping MSA step.
+
+2024-05-09 16:30:01,785 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 16:30:02,244 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-09 16:30:02,244 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-09 19:17:18,291 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 19:17:18,841 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 19:17:18,842 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-09 19:17:18,842 - Logger - INFO - Skipping MSA step.
+
+2024-05-09 19:17:18,842 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 19:17:19,300 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-09 19:17:19,300 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-09 19:17:43,900 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 19:17:44,422 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 19:17:44,423 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-09 19:17:44,424 - Logger - INFO - Skipping MSA step.
+
+2024-05-09 19:17:44,424 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 19:17:44,833 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-09 19:17:44,833 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-09 19:18:35,190 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 19:18:35,715 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 19:18:35,716 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-09 19:18:35,716 - Logger - INFO - Skipping MSA step.
+
+2024-05-09 19:18:35,717 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 19:18:36,060 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-09 19:18:36,060 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-09 19:19:29,492 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 19:19:30,007 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 19:19:30,008 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-09 19:19:30,008 - Logger - INFO - Skipping MSA step.
+
+2024-05-09 19:19:30,008 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 19:19:44,094 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-09 19:19:44,639 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-09 19:19:44,640 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-09 19:19:44,640 - Logger - INFO - Skipping MSA step.
+
+2024-05-09 19:19:44,640 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-09 19:19:44,987 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-09 19:19:44,988 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 19:43:32,883 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 19:43:33,462 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 19:43:33,463 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 19:45:35,595 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-10 19:45:35,595 - Logger - INFO - BLAST search parsed.
+
+2024-05-10 19:45:35,665 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-10 19:45:35,666 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-10 19:45:35,666 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-10 19:45:35,666 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-10 19:45:38,108 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240510-194537-0719-30468580-p1m
+2024-05-10 19:45:38,839 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:40,573 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:42,381 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:44,106 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:45,822 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:48,581 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:52,399 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:55,144 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:45:57,875 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:46:00,606 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:46:05,360 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:46:10,146 - Logger - INFO - Job status: QUEUED
+2024-05-10 19:46:14,873 - Logger - INFO - Job status: RUNNING
+2024-05-10 19:46:19,593 - Logger - INFO - Job status: FINISHED
+2024-05-10 19:46:19,850 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-10 19:46:19,853 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-10 19:46:19,853 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 19:46:20,426 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-10 19:46:20,427 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 19:49:41,626 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 19:49:42,205 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 19:49:42,206 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 20:04:25,197 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-10 20:04:25,197 - Logger - INFO - BLAST search parsed.
+
+2024-05-10 20:04:25,267 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-10 20:04:25,267 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-10 20:04:25,268 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-10 20:04:25,268 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-10 20:04:27,629 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240510-200427-0231-80504773-p1m
+2024-05-10 20:04:30,868 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:32,616 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:34,346 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:36,085 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:37,833 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:40,598 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:43,385 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:46,906 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:50,135 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:53,326 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:04:58,072 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:02,805 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:07,628 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:12,408 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:17,162 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:26,480 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:35,231 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:43,993 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:05:52,764 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:06:01,593 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:06:18,367 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:06:35,116 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:06:51,886 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:07:08,626 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:07:25,738 - Logger - INFO - Job status: QUEUED
+2024-05-10 20:07:58,490 - Logger - INFO - Job status: FINISHED
+2024-05-10 20:07:59,206 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-10 20:07:59,209 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-10 20:07:59,209 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 20:10:40,716 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 20:10:41,241 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 20:10:41,242 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 20:10:41,242 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 20:10:41,243 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 20:10:50,653 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 20:10:51,205 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 20:10:51,206 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 20:10:51,207 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 20:10:51,207 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 20:10:58,512 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 20:10:59,056 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 20:10:59,057 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 20:10:59,057 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 20:10:59,057 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 20:11:50,629 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 20:11:51,200 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 20:11:51,201 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 20:11:51,202 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 20:11:51,202 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 20:12:00,067 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 20:12:00,593 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 20:12:00,593 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 20:12:00,594 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 20:12:00,594 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 20:12:00,932 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-10 20:12:00,933 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 21:32:55,135 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:32:55,815 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:32:55,816 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 21:32:55,817 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 21:32:55,817 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 21:33:46,841 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:33:47,427 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:33:47,428 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 21:33:47,428 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 21:33:47,428 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 21:33:47,814 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-10 21:33:47,814 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 21:34:07,806 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:34:08,340 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:34:08,341 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 21:34:08,341 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 21:34:08,341 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 21:34:08,717 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree_blosum62.pdf
+2024-05-10 21:34:08,718 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 21:34:21,564 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:34:22,153 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:34:22,154 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 21:35:35,385 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-10 21:35:35,385 - Logger - INFO - BLAST search parsed.
+
+2024-05-10 21:35:35,468 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-10 21:35:35,470 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-10 21:35:35,470 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-10 21:35:35,470 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-10 21:35:37,988 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240510-213537-0558-43979742-p1m
+2024-05-10 21:35:41,273 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:43,049 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:44,772 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:46,487 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:48,216 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:50,949 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:53,706 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:56,470 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:35:59,181 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:36:01,946 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:36:06,712 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:36:11,467 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:36:16,167 - Logger - INFO - Job status: FINISHED
+2024-05-10 21:36:16,858 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-10 21:36:16,860 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-10 21:36:16,861 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 21:36:17,255 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree_blosum62.pdf
+2024-05-10 21:36:17,256 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 21:36:48,953 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:36:49,487 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:36:49,488 - Logger - INFO - Skipping BLAST analysis step.
+
+2024-05-10 21:36:49,488 - Logger - INFO - Skipping MSA step.
+
+2024-05-10 21:36:49,488 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 21:36:49,824 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree_pam30.pdf
+2024-05-10 21:36:49,825 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 21:36:57,923 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:36:58,442 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:36:58,443 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 21:39:32,563 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 21:39:33,132 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 21:39:33,133 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 21:41:58,935 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-10 21:41:58,935 - Logger - INFO - BLAST search parsed.
+
+2024-05-10 21:41:59,006 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-10 21:41:59,007 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-10 21:41:59,007 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-10 21:41:59,007 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-10 21:42:01,345 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240510-214200-0912-7130760-p1m
+2024-05-10 21:42:02,950 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:06,446 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:08,181 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:09,904 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:11,622 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:14,379 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:17,104 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:19,843 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:22,566 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:25,327 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:30,086 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:34,806 - Logger - INFO - Job status: QUEUED
+2024-05-10 21:42:39,523 - Logger - INFO - Job status: FINISHED
+2024-05-10 21:42:39,772 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-10 21:42:39,775 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-10 21:42:39,775 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 21:42:40,141 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree_upgma.pdf
+2024-05-10 21:42:40,142 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 22:50:40,324 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 22:50:40,875 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 22:50:40,876 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 22:51:42,830 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-10 22:51:42,830 - Logger - INFO - BLAST search parsed.
+
+2024-05-10 22:51:42,839 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-10 22:51:42,839 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-10 22:51:42,839 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-10 22:51:42,839 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-10 22:51:45,781 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240510-225145-0326-66029089-p1m
+2024-05-10 22:51:48,225 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:51:49,979 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:51:51,689 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:51:53,410 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:51:55,158 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:51:57,870 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:00,615 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:03,428 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:06,192 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:08,934 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:15,482 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:20,712 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:25,476 - Logger - INFO - Job status: QUEUED
+2024-05-10 22:52:30,175 - Logger - INFO - Job status: FINISHED
+2024-05-10 22:52:30,891 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-10 22:52:30,894 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-10 22:52:30,895 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 22:52:31,321 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree_upgma.pdf
+2024-05-10 22:52:31,321 - Logger - INFO - Phylogenetic tree built successfully.
+
+2024-05-10 23:01:00,692 - Logger - INFO - Collecting the sequence for UniProt ID P68871... 
+
+2024-05-10 23:01:01,245 - Logger - INFO - Sequence written to sequence.fasta
+
+2024-05-10 23:01:01,246 - Logger - INFO - Performing BLAST analysis for UniProt ID P68871... (This may take some time)
+
+2024-05-10 23:05:03,043 - Logger - INFO - BLAST search completed. Parsing results...
+
+2024-05-10 23:05:03,043 - Logger - INFO - BLAST search parsed.
+
+2024-05-10 23:05:03,051 - Logger - INFO - Sequences written to {output_path}
+
+2024-05-10 23:05:03,051 - Logger - INFO - BLAST analysis completed. Results written to sequences_to_analyse.fasta
+
+2024-05-10 23:05:03,051 - Logger - INFO - Appending the results from phase 1 to the BLAST results...
+
+2024-05-10 23:05:03,052 - Logger - INFO - Running the multiple sequence alignment (MSA)...
+
+2024-05-10 23:05:05,377 - Logger - INFO - Job submitted successfully. Job ID: clustalo-R20240510-230504-0913-96660751-p1m
+2024-05-10 23:05:06,126 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:07,848 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:09,638 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:11,377 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:13,183 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:16,476 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:19,390 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:22,391 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:25,118 - Logger - INFO - Job status: QUEUED
+2024-05-10 23:05:27,838 - Logger - INFO - Job status: RUNNING
+2024-05-10 23:05:32,554 - Logger - INFO - Job status: FINISHED
+2024-05-10 23:05:33,259 - Logger - INFO - Alignment saved to alignment.txt
+2024-05-10 23:05:33,263 - Logger - INFO - MSA completed. Results written to alignment.txt
+
+2024-05-10 23:05:33,264 - Logger - INFO - Building the phylogenetic tree...
+
+2024-05-10 23:05:33,684 - Logger - INFO - Exported tree to Outputs/PhylogeneticTree.pdf
+2024-05-10 23:05:33,684 - Logger - INFO - Phylogenetic tree built successfully.
+

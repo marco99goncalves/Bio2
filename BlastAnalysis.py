@@ -5,7 +5,7 @@ import Logger
 
 logger = Logger.setup_logger()
 
-def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=11):
+def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=10, matrix_name="BLOSUM80"):
     # Read the fasta sequence
 
     record = SeqIO.read(fasta_path, format="fasta")
@@ -16,8 +16,8 @@ def blast_sequence_and_get_top_hits(fasta_path, output_path, top_hits=11):
 
     result_handle = NCBIWWW.qblast( program="blastp", database="nr", sequence=record.seq,
                                     expect=0.05, word_size=5,
-                                    matrix_name="BLOSUM62", gapcosts="11 1",
-                                    hitlist_size=1000)
+                                    matrix_name=matrix_name, gapcosts="11 1",
+                                    hitlist_size=100)
 
     logger.info("BLAST search completed. Parsing results...\n")
 
